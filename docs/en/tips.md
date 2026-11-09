@@ -15,7 +15,7 @@ English · [简体中文](../zh-CN/tips.md) · [Back to the home page](../../REA
 
 On a deck's editing page:
 
-- `B`: open the story board
+- `B`: open the story board, `S`: share
 - `E`: edit mode, `V`: preview mode, `C`: comment mode
 - `I`: show or hide the panel on the right
 - `⌘Z`: undo, `⌘⇧Z`: redo, `⌘S`: save your changes

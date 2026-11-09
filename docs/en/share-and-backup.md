@@ -42,7 +42,7 @@ A backup packs the whole workspace into one zip: every deck, asset, theme and fo
 1. Open “Settings → Backup”.
 2. Choose a backup location. To send it to a cloud drive automatically, choose that drive’s sync folder (setup for each drive is below); to keep it on this computer, the default “LemonRiver 备份” folder is enough.
 3. Turn on “Back up every day”: one backup a day while LemonRiver is open. You can also choose “Back up now” at any time.
-4. “Keep the latest” decides how many backups stay; older ones are deleted. Only backups LemonRiver made are deleted; other files you put in the folder are never touched.
+4. Backups keep the last 30 days; older ones are deleted. Only what LemonRiver wrote into the folder is touched; other files you put there are never deleted.
 
 **What a backup leaves out**: your conversations with the Agent, the trash, packages you shared, and the Agent’s auto-approve switch (for safety you turn it on again on a new computer).
 
@@ -73,7 +73,7 @@ The first time LemonRiver backs up into a cloud folder, macOS may ask whether to
 3. Back in LemonRiver, open “Settings → Backup → Change” and choose “iCloud Drive”.
 4. **Check that it uploaded**: in the Finder sidebar open “iCloud Drive → LemonRiver 备份”. When there is no cloud or progress icon beside the file, it is uploaded. You can also check on icloud.com.
 
-- Free iCloud is only 5GB, and one backup can be a few hundred MB. If space runs out, lower “Keep the latest” or buy more iCloud storage.
+- Free iCloud is only 5GB, and the workspace backup can be a few hundred MB. If space runs out, turn on “Do not back up videos over 100 MB” in Settings, or buy more iCloud storage.
 - When restoring on a new computer, a cloud icon beside the backup means it is not downloaded yet: double-click it, wait for the download, then restore.
 
 ### Baidu Netdisk
@@ -95,7 +95,7 @@ Baidu Netdisk’s desktop client offers two ways; either works:
 3. If your Weiyun client offers “Automatic backup” or a sync folder, add this folder to it.
 4. If it does not, then after a backup choose “Show in Finder” in LemonRiver and drag the newest backup zip into Weiyun to upload it.
 
-- Weiyun’s free space is small; setting “Keep the latest” to 3 is a good idea.
+- Weiyun’s free space is small; turning on “Do not back up videos over 100 MB” in Settings helps.
 
 ### Dropbox
 
@@ -131,7 +131,7 @@ Any cloud drive whose client can upload a folder on this computer automatically 
 ## Cloud drive questions
 
 - <strong>The backup succeeded, but it is not on the drive.</strong>LemonRiver only writes into the folder; the cloud drive client does the uploading. Check that the client is running, signed in, and not paused.
-- <strong>The drive is full.</strong>Lower “Keep the latest”, or clean up old backups on the drive. The size of the last backup is shown after “Last backup”.
+- <strong>The drive is full.</strong>How much backups take is shown in Settings. Turning on “Do not back up videos over 100 MB” frees up space.
 - <strong>There are files like “conflicted copy”.</strong>That happens when two computers back up into the same folder. Give each computer its own backup folder, or leave automatic backup on only one computer.
 - <strong>How do I restore on a new computer?</strong>See “Restore a backup, or move to a new computer” above. The key is letting the cloud drive download the backup to the new computer first.
 - <strong>I do not want to use a cloud drive.</strong>The default “LemonRiver 备份” folder is in your home folder. You can also choose a folder on an external drive and plug it in before backing up.
