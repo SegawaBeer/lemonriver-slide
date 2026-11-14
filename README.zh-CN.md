@@ -51,6 +51,12 @@
 
 ## 反馈
 
-遇到问题或者有想法，在这个仓库的 [Issues](https://github.com/SegawaBeer/lemonriver-slide/issues) 里写下来。说明一下你用的是安装包还是命令行、哪个版本（侧栏左下角能看到），有截图更好。
+遇到问题或者有想法，在程序侧栏点「反馈」，可以填问卷或者发邮件，版本、系统这些信息会帮你带上，不带幻灯片内容和文件位置。也可以直接：
+
+- 填问卷：https://wj.qq.com/s2/28661011/5ixj
+- 发邮件：lemonriver.slide@gmail.com
+- 在这个仓库的 [Issues](https://github.com/SegawaBeer/lemonriver-slide/issues) 里写
+
+说明一下你用的是安装包还是命令行、哪个版本（侧栏左下角能看到）。请不要附上客户资料。
 
 这个仓库只放介绍、安装包和文档，不放源码。

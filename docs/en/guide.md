@@ -58,3 +58,4 @@ How to install, sign in to, or pay for an agent is up to its own instructions; L
 - **What the agent wrote does not look like slides, or it edited the wrong files**: tell it “read the AGENTS.md in this folder first and follow its rules”.
 - **I broke something**: ⌘Z undoes changes made in the interface; before a big change, “Duplicate” a deck on the home page as a spare; deleted decks stay in the trash for 30 days.
 - **My comments did nothing**: comments are only notes until you tell the agent to “apply comments”.
+- **I want to suggest something or something went wrong**: choose “Feedback” in the sidebar.

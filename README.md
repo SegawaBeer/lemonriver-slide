@@ -51,6 +51,12 @@ Present full screen with presenter view: current and next page, speaker notes an
 
 ## Feedback
 
-Found a problem or have an idea? Open an [issue](https://github.com/SegawaBeer/lemonriver-slide/issues) here. Say whether you use the installer or the command line and which version (bottom left of the sidebar); a screenshot helps.
+Found a problem or have an idea? Click "Feedback" in the app's sidebar to send it by form or email; it adds your version and system for you, never your slides or file locations. You can also:
+
+- Fill in the form: https://wj.qq.com/s2/28661011/5ixj
+- Email us: lemonriver.slide@gmail.com
+- Open an [issue](https://github.com/SegawaBeer/lemonriver-slide/issues) here
+
+Say whether you use the installer or the command line and which version (bottom left of the sidebar). Please leave client material out.
 
 This repository holds the introduction, the installers and the docs. It does not hold the source code.
