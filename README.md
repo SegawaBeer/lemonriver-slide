@@ -48,6 +48,7 @@ Present full screen with presenter view: current and next page, speaker notes an
 - [Usage guide](docs/en/guide.md): both ways of working, talking to your agent and editing in the app, from setup to the finished deck.
 - [Tips](docs/en/tips.md): asking your agent for less rework, keyboard shortcuts, keeping a copy and checking before you hand a deck over.
 - [Sharing, backup and cloud drives](docs/en/share-and-backup.md): share packages, importing, daily backups, moving to a new computer, and setting up each cloud drive.
+- [Demo decks](demos/README.md): the 18 demo decks that ship with open-slide, ready to copy into a workspace.
 
 ## Feedback
 

@@ -48,6 +48,7 @@
 - [使用指南](docs/zh-CN/guide.md)：两种用法（跟 Agent 说、在界面里改）从准备到收尾。
 - [技巧](docs/zh-CN/tips.md)：怎么跟 Agent 说更省事、常用快捷键、留底和交付前检查。
 - [分享、备份和云盘](docs/zh-CN/share-and-backup.md)：分享包、导入、每天备份、换电脑恢复、各家云盘怎么设。
+- [演示作品](demos/README.zh-CN.md)：open-slide 官方自带的 18 份演示作品，复制进工作区就能打开。
 
 ## 反馈
 
